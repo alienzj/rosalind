@@ -1,0 +1,20 @@
+#+TITLE:   rosalind-rs
+#+DATE:    January 9, 2020
+#+SINCE:   {replace with next tagged release version}
+#+STARTUP: inlineimages nofold
+
+* Table of Contents :TOC_3:noexport:
+- [[#description][Description]]
+- [[#prerequisites][Prerequisites]]
+- [[#features][Features]]
+
+* Description
+A tour on rosalind.
+
+* Prerequisites
+- Biology
+- Math
+- Computer Science
+
+* Features
+- Can learn bioinformatics
