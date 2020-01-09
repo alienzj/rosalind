@@ -11,3 +11,7 @@ edition = "2018"
 [[bin]]
 name = "dna"
 path = "src/dna.rs"
+
+[[bin]]
+name = "rna"
+path = "src/rna.rs"
