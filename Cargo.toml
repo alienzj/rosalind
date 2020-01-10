@@ -27,3 +27,7 @@ path = "src/gc.rs"
 [[bin]]
 name = "fib"
 path = "src/fib.rs"
+
+[[bin]]
+name = "hamm"
+path = "src/hamm.rs"
